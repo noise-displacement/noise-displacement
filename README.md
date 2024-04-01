@@ -1,4 +1,8 @@
-### Hi there 👋
+UX / UI / Frontend / System
+
+### Hello 😎
+
+I am currently working on @Strimo-no 
 
 <!--
 **noise-displacement/noise-displacement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
