@@ -4,7 +4,7 @@ Self-taught javascript developer, and have lead several projects for the Univers
 
 I've also cofounded [Strimo](https://strimo.no) which I am currently working on as lead frontend developer and lead designer.
 
-# 🏄‍♂️ 🐢 
+### 🏄‍♂️ 🐢 
 Love surfing (with turtles)
 <!--
 **noise-displacement/noise-displacement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
