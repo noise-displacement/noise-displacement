@@ -9,7 +9,7 @@ I've also cofounded [Strimo](https://strimo.no) which I am currently working on 
 ___
 
 ### 🏄‍♂️ 🐢 
-Love surfing (with turtles)
+Love surfing
 <!--
 **noise-displacement/noise-displacement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
