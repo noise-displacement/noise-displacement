@@ -5,6 +5,7 @@ I'm Sondre. From Bergen, Norway. Studying interaction design at the University o
 Self-taught javascript developer, and have lead several software projects for the University of Agder, where I took my bachelors in Multimediatechnology and design.
 
 I've also co-founded [Strimo](https://strimo.no) where I am currently working on as lead frontend developer and lead designer.
+You can also find my portfolio at [6th.no](https://6th.no).
 
 ___
 
