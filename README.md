@@ -3,7 +3,7 @@
 
 I'm Sondre. From Bergen, Norway. Have a masters degree in interaction design from the University of Bergen.
 <br />
-Currently I am working at Heisenbug as lead developer for [Agent 44](https://fasttrack.heisenbug.no/agent-44).
+Currently I am working at [Heisenbug](https://heisenbug.no/en) as lead developer for [Agent 44](https://fasttrack.heisenbug.no/agent-44).
 
 I've also co-founded [Strimo](https://strimo.no) a multi-phone livestreaming app.
 <br>
