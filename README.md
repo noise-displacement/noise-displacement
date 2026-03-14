@@ -1,12 +1,12 @@
 ### Hello 😎
 
 
-I'm Sondre. From Bergen, Norway. Studying interaction design at the University of Bergen.
-Self-taught javascript developer, and have lead several software projects for the University of Agder, where I took my bachelors in Multimediatechnology and design.
+I'm Sondre. From Bergen, Norway. Have a masters degree in interaction design from the University of Bergen.
+Currently I am working at Heisenbug as lead developer for [Agent 44](https://fasttrack.heisenbug.no/agent-44).
 
-I've also co-founded [Strimo](https://strimo.no) where I am currently working on as lead frontend developer and lead designer.
+I've also co-founded [Strimo](https://strimo.no) a multi-phone livestreaming app.
 <br>
-You can also find my portfolio at [bysondre.com](https://bysondre.com).
+You can find my portfolio at [bysondre.com](https://bysondre.com).
 
 ___
 
